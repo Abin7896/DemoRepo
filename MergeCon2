@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Testing Merge conflict 2 from develop
+=======
+Adding file 2 to test merge conflict from hotfix
+>>>>>>> hotfix

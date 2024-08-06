@@ -1,1 +1,3 @@
 Hellow world!
+
+Adding new line to test conflict.
